@@ -1,3 +1,3 @@
 # GIT TUTORIAL VIDEO
 
-This is a git video
+This is a git video.
